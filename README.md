@@ -3,8 +3,8 @@
 
 ## Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvargas-xbrein&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvargas-xbrein&theme=default&show_icons=true&hide_border=true&layout=compact"   />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cvargas-xbrein&theme=2077" alt="Profile details badge"/>
+
 
 <!---
 cvargas-geo/cvargas-geo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
